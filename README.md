@@ -1,5 +1,5 @@
 # 100 days of code (Python)
-## My personal log all my code.
+## My personal log of all my code.
 
 
 
